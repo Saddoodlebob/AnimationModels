@@ -1,2 +1,2 @@
 # AnimationModels
-This is hwere we will share wip and completed models
+This is where we will share wip and completed models
