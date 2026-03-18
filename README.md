@@ -1,2 +1,2 @@
-# AnimationModels
-This is where we will share wip and completed models
+# WIP Models
+This Branch is for wip models we need to share
